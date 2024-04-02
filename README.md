@@ -19,3 +19,7 @@ The time we greeted you.
 uses: actions/hello-world-docker-action@v2
 with:
   who-to-greet: 'Mona the Octocat'
+  
+## Container firmware builds
+
+NEAT! https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action#accessing-files-created-by-a-container-action
